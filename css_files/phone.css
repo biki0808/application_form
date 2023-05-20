@@ -1,0 +1,89 @@
+/* APPLICATION FORM PAGE RESPONSIVE DESIGN */
+
+#application_form {
+  width: 41rem;
+}
+.application_info .application_info_child {
+  flex-direction: column;
+}
+
+.application_info .application_info_child .sub_div {
+  margin-left: 0;
+}
+#application_form .application_info textarea {
+  width: 35rem;
+  font-size: 1.6rem;
+}
+#application_form .h2heading {
+  font-size: 2.5rem;
+}
+
+#application_form label {
+  font-size: 1.6rem;
+}
+
+#application_form .application_info input {
+  width: 32rem;
+  height: 4rem;
+  font-size: 1.7rem;
+}
+
+.application_info .application_info_child .sub_div .select {
+  width: 10rem;
+  height: 3rem;
+  font-size: 1.4rem;
+}
+
+#application_form_buttonDiv button {
+  height: 5.5rem;
+  width: 20rem;
+  font-size: 28px;
+}
+#application_form_heading {
+  width: 30rem;
+  padding: 0 5rem;
+}
+
+/* APPLICATION FORM PAGE RESPONSIVE DESIGN */
+
+/* LOGIN PAGE RESPONSIVE DESIGN */
+
+#login_main_container {
+  height: 51rem;
+}
+
+#login_container {
+  height: 26rem;
+  width: 19rem;
+}
+#login_container h1 {
+  font-size: 2rem;
+}
+
+#login_container form label {
+  font-size: 1.3rem;
+}
+
+#login_container form input {
+  width: 15rem;
+}
+
+#login_container form input {
+  width: 15rem;
+  margin-left: 2rem;
+}
+#login_container form label {
+  font-size: 1.3rem;
+  padding-left: 3rem;
+}
+
+#login_container form .login_input_button {
+  margin-left: 0;
+}
+
+#login_container form .login_input_button {
+  height: 2.6rem;
+  width: 8rem;
+}
+
+/* LOGIN PAGE RESPONSIVE DESIGN */
